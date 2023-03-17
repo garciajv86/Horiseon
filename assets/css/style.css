@@ -8,24 +8,27 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+/*Changed my selector from being a header class to just target the header because adding a class is unecessary*/
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+/*Changed my selector from being a header class to just target the header because adding a class is unecessary*/
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/*Changed my selector from being a header class to just target the header because adding a class is unecessary*/
+header h1 .seo {
     color: #d9dcd6;
 }
 
-/*Changed from div to section to target the HTML sections*/
-.header section {
+/*Changed from div to section and changed my selector from being a header class to just target the header because adding a class is unecessary to target the HTML sections*/
+header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,12 +37,12 @@ body {
 }
 
 /*Changed from div to section to target the HTML sections*/
-.header section ul {
+header section ul {
     list-style-type: none;
 }
 
 /*Changed from div to section to target the HTML sections*/
-.header section ul li {
+header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
