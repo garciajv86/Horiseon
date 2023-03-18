@@ -41,8 +41,8 @@ ul {
     list-style-type: none;
 }
 
-/*Changed from div to section to target the HTML sections*/
-header section ul li {
+/*Took out uneccassary header section ul selectors*/
+li {
     display: inline-block;
     margin-left: 25px;
 }
