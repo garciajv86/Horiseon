@@ -36,8 +36,8 @@ header section {
     font-size: 20px;
 }
 
-/*Changed from div to section to target the HTML sections*/
-header section ul {
+/*Took out the uneccassary header and section selectors */
+ul {
     list-style-type: none;
 }
 
