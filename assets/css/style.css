@@ -16,8 +16,8 @@ header {
     color: #ffffff;
 }
 
-/*Changed my selector from being a header class to just target the header because adding a class is unecessary*/
-header h1 {
+/*Removed header selector because my header was not using this style*/
+h1 {
     display: inline-block;
     font-size: 48px;
 }
