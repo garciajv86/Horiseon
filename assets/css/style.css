@@ -92,17 +92,8 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+/*Removed benifit classes and just added them as multiple selectors to remove uneccassary repitition.*/
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
