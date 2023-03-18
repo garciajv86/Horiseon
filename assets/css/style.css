@@ -140,7 +140,7 @@ footer {
     text-align: center;
 }
 
-/*Changed uneccasary footer class to just footer selector*/
-footer h2 {
+/*Removed uneccassary footer selector*/
+h2 {
     font-size: 20px;
 }
