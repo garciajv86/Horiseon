@@ -22,8 +22,8 @@ header h1 {
     font-size: 48px;
 }
 
-/*Changed my selector from being a header class to just target the header because adding a class is unecessary*/
-header h1 .seo {
+/*Changed my selector from being a header class and seo class to just target the header and seo because adding the classes is unecessary*/
+header h1 span {
     color: #d9dcd6;
 }
 
