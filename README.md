@@ -1,4 +1,4 @@
-# challenge-1
+# Challenge-1
 
 Followed the user story and acceptance criteria below to complete the challenge.
 
