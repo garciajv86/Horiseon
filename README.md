@@ -32,4 +32,5 @@ The website did not follow semantic HTML in the code, So semantic HTML was creat
 
 ## Screen Shot
 
-### Link To Deployed Application
+#### Link To Site:
+https://garciajv86.github.io/challenge-1/
