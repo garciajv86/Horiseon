@@ -27,8 +27,8 @@ span {
     color: #d9dcd6;
 }
 
-/*Changed from div to section and changed my selector from being a header class to just target the header because adding a class is unecessary to target the HTML sections*/
-header section {
+/*Changed from div to section and changed my selector from being a header class to just target the header because adding a class is unecessary to target the HTML sections, also added nav*/
+header section, nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
