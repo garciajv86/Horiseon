@@ -32,5 +32,7 @@ The website did not follow semantic HTML in the code, So semantic HTML was creat
 
 ## Screen Shot
 
-#### Link To Site:
+![Image of team members collaborating on a project in the office.](./assets/images/WebsiteScreenshot.png)
+
+### Link To Site:
 https://garciajv86.github.io/challenge-1/
